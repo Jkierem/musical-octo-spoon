@@ -1,6 +1,6 @@
 # musical-octo-spoon
 
-I´m a repo for the purpose of a tutorial. I will not hold any info
+I´m a repo for the purpose of a tutorial. It will not hold any info
 
 ## The Power of Markdown!!!
 
